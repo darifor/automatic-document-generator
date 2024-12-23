@@ -10,7 +10,7 @@ Una tarea de chinos, vaya.
 No sufras más. Con esta aplicación sólo tendrás que hacer un click y el sistema hará todo el trabajo por ti en 
 un abrir y cerrar de ojos. Lo único que debes hacer es asegurarte de que la carpeta *"comunicados"*, el excel
 *"alumnos.xlsx"* con las notas del alumnado y el documento *"plantilla.docx"* con el modelo de carta que deseas
-enviar estén en el mismo directorio que la alicación "automatizar_word.py". 
+enviar estén en el mismo directorio que la aplicación "automatizar_word.py". 
 
 ## Componentes del sistema
 
